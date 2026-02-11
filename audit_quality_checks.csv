@@ -1,0 +1,4 @@
+check,sample_size,bad_count,bad_rate
+websites url tokens (sample),500,14,0.028
+phones tokens too short/empty (sample),500,4,0.008
+email rows with no detectable email (sample),0,0,
