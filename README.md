@@ -1,4 +1,5 @@
 # ResolvePOI: Attribute Conflation
+By Kate Mikhailova
 
 ## Overview
 Different data providers often describe the same real-world place (POI) with conflicting information. Even when two records refer to the same location, attributes like the name, category, phone number, website, or address may not match exactly.
